@@ -16,7 +16,7 @@ const updateBackpack = (update) => {
 const backpack = {
   name: "Everyday Backpack",
   volume: 30,
-  color: "grey",
+  color: "pink",
   pocketNum: 15,
   strapLength: {
     left: 26,
